@@ -82,7 +82,7 @@ chmod 444 ./ca/intermediate/certs/intermediate.cert.pem
 # prep the router dirs
 cd ${X509DIR}
 cd router
-touch ipsec.conf ipsec.conf.x509 ipsec.secrets
+touch ipsec.conf ipsec.secrets
 mkdir ipsec
 cd ipsec
 mkdir cacerts certs csr private
@@ -125,7 +125,7 @@ chmod 444 ./router/ipsec/certs/router.cert.pem
 # prep the mobile user dirs
 cd ${X509DIR}
 cd mobile-user-0
-touch ipsec.conf ipsec.conf.x509 ipsec.secrets
+touch ipsec.conf ipsec.secrets
 mkdir ipsec
 cd ipsec
 mkdir cacerts certs csr private
