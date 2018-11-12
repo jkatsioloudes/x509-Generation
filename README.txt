@@ -1,1 +1,0 @@
-NOTE: The script for creating the X509 certificates for my admission assumes the existense of directories (ca, router, mobile-user-0, mobile-user-1, mobile-user-2) before running it, each including its corresponding openssl.cnf.
