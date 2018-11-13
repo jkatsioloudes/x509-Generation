@@ -1,0 +1,11 @@
+9FBE 7398 394B 0ADB 97BF  B16B 4097 68F4 7C4C 58D5
+
+gpg: checking the trustdb
+gpg: 3 marginal(s) needed, 1 complete(s) needed, PGP trust model
+gpg: depth: 0  valid:   1  signed:   0  trust: 0-, 0q, 0n, 0m, 0f, 1u
+gpg: next trustdb check due at 2020-11-12
+pub   2048R/7C4C58D5 2018-11-13 [expires: 2020-11-12]
+      Key fingerprint = 9FBE 7398 394B 0ADB 97BF  B16B 4097 68F4 7C4C 58D5
+uid                  Joseph Katsioloudes <joseph.katsioloudes@warwick.ac.uk>
+sub   2048R/47D4246F 2018-11-13 [expires: 2020-11-12]
+
